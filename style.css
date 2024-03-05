@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 10px;
+    width: 100vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Poppins", sans-serif;
+}
+main{
+    border: 1px solid black;
+    width: 5git0%;
+    padding: 10px;
+}
+img{
+    height: 400px;
+    width: 100%;
+}
+.card-body{
+    border: 1px solid black;
+    padding: 10px;
+}
+.card-body > .details > p{
+    margin: 0;
+}
+span{
+    font-weight: bold;
+}
+p{
+    text-align: justify;
+
+}
